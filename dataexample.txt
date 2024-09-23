@@ -1,0 +1,4 @@
+username
+user token
+channel id
+(server id)
